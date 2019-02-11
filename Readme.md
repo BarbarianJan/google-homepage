@@ -1,0 +1,1 @@
+This is a project made for https://www.theodinproject.com curriculum. 
