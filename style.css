@@ -12,6 +12,14 @@ body {
 	width: 272px;
 }
 
+.picture2 {
+	position: fixed;
+	right: 8.5%;
+	top: 3%;
+	width: 17px;
+	color: grey;
+}
+
 .search_bar {
 	position: fixed;
 	top: 50%;
@@ -48,23 +56,45 @@ body {
 	background-color: #d8d8d8;
 }
 
-p {
-	position: fixed;
-	top: 65%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	border: 1px 1px;
-	
-}
 
 .country {
 	background-color: #d8d8d8;
 	position: fixed;
-	bottom:3%;
+	bottom:8%;
+	left:2%;
 }
 
-.random_info {
+.random_info1 {
 	background-color: #d8d8d8;
 	position: fixed;
-	bottom:0%;
+	bottom:2%;
+	left:2%;
+}
+
+.random_info2 {
+	background-color: #d8d8d8;
+	position: fixed;
+	bottom:2%;
+	right:2%;
+}
+
+.gmail {
+	position: fixed;
+	right: 15%;
+	top: 3%;
+
+}
+
+.images {
+	position: fixed;
+	right: 11%;
+	top: 3%;
+}
+
+.sing_in {
+	position: fixed;
+	right: 3%;
+	top: 3%;
+	border: 1px 1px;
+	background-color: blue;
 }
